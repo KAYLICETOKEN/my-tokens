@@ -1,0 +1,13 @@
+{
+  "chainId": 101,
+  "address": "BmexK2hYCV3bnvNZqtMNawJjmj5gJA53mNdhw8mucU9s",
+  "symbol": "KAY",
+  "name": "KAYLICE",
+  "decimals": 9,
+  "description": "Kaylice is a decentralized meme-token in the solana network with 0% fees. its max supply is 500000000.",
+  "logoURI": "https://github.com/KAYLICETOKEN/kaylice-token/blob/main/BR8QeaTpFZT43ybkn8LfXKgyzsTbMLQNS72LwoQ8ijDa/logo.png",
+  "tags": [
+    "solana",
+    "meme-token"
+  ]
+}
